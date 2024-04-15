@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(72, 44, 99) ;
+}
+h1{
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    font-size: 80px;
+}
+.set{
+    height: 100px; 
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+}
+.drum{
+    color: red;
+    background-color: #fff;
+    font-size: 30px;
+}
+.set button{
+    height: 70px;
+    width: 70px;
+    border-radius: 7px;
+}
